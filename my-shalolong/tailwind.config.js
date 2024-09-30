@@ -11,6 +11,7 @@ export default {
         'neutralDGrey' : '#4D4D4D',
         'brandPrimary' : '#4CAF4F',
         'neutralGrey' : '#F5F7FA',
+        'grey900' : '#18191F',
       }
     },
   },
